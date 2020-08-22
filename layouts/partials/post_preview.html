@@ -19,18 +19,14 @@
     <div class="post-entry">
         {{ if .Truncated }}
         {{ .Summary }}
-        <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+<!--        <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a> -->
         {{ else }}
         {{ .Content }}
         {{ end }}
     </div>
 
-    {{ if .Params.tags }}
-    <div class="blog-tags">
-        {{ range .Params.tags }}
-        <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
-        {{ end }}
-    </div>
-    {{ end }}
+   <div>
+   <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+   </div>
 
 </article>
