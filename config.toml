@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://williamthresher.com/blog"
 DefaultContentLanguage = "en"
 title = "Run. Fast. Blog."
 theme = "beautifulhugo"
@@ -12,9 +12,15 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+uglyURLs = false
+
+[permalinks]
+  post = "/:year/:slug/"
+  page = "/:slug/"
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+#  subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
   logo = "img/bear_avatar.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -47,13 +53,13 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "William Thresher"
   website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  #email = "youremail@domain.com"
   facebook = "username"
   github = "username"
 #  gitlab = "username"
 #  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
+#  twitter = "username"
+#  reddit = "username"
   linkedin = "username"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
@@ -76,36 +82,36 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "https://williamthresher.com/blog/post"
     weight = 1
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    url = "about"
     weight = 2
 
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
+#[[menu.main]]
+#    identifier = "samples"
+#    name = "Samples"
+#    weight = 2
 
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Big Image Sample"
+#    url = "post/2017-03-07-bigimg-sample"
+#    weight = 1
 
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Math Sample"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Code Sample"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
 
 [[menu.main]]
     name = "Tags"
