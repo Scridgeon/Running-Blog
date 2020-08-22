@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/trav1sty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://williamthresher.com
+  * I am trav1sty (https://keybase.io/trav1sty) on keybase.
+  * I have a public key with fingerprint 9260 0B2C A31F CA5D 38D8  4796 1FC0 D2FF 7D78 CD1D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201cff9026d094791594600c32ffada702817469d48633b02e875165abeb600fe80a",
+      "fingerprint": "92600b2ca31fca5d38d847961fc0d2ff7d78cd1d",
+      "host": "keybase.io",
+      "key_id": "1fc0d2ff7d78cd1d",
+      "kid": "0101c534a352b0a24feea4bdcc3b4ae64f8f0a6ac15d477c82401b179172ed21c30b0a",
+      "uid": "6c32b0b90d6ff25f0c509e6148c99d19",
+      "username": "trav1sty"
+    },
+    "merkle_root": {
+      "ctime": 1587248018,
+      "hash_meta": "2f8c7ff799def0ce35aa80533f67f5d1795ede0269ed2b619c4c66f89b8c7f56",
+      "seqno": 15972231
+    },
+    "revoke": {
+      "sig_ids": [
+        "776a6c0fc9658f5b0c59eb1227fda4364a4e22a5bfe7b1b3ae587e77255662780f"
+      ]
+    },
+    "service": {
+      "hostname": "williamthresher.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1587248125,
+  "expire_in": 157680000,
+  "prev": "298ac68c9dcb62aae344c8d9f08c1d7701d58657254323041677758bb7c68464",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQMAnicbVN9bBRFHC0ULLQpViAkhFB0kZQvy+zs7uxsCRRDLIjXgsiX9OCc2Z29
+bq+9O3av16u1RTFgG2i1pKhpQSDhQ1ugkagkpUCBhkYBE04pFAHR1CogykeayJc4
+20CMifvPZmbfe7/33ux0pCYmJA8Y1x5/VBE7PXbAyWOVJQkrG8sflgs0ZJQJWeVC
+gPW/WJHBnIgvYBlClgBECETdNDUAkQE0WdVERZMRALoETZMYRAUQi6qMNEPGSJIo
+gAyriogUQhnlOJNhQISpgmkF/cwO21YwwmU1yD9RqBNJNHWiGBI2MNdGfAUMLqwa
+KtYN0eDEgpDjMrg5ShyWaYX4Hl/4+u39D/6Jb25bkWQiKZACAmWTMSJTQ9clKhOG
+ZBObgCCii4ohq6qOoQxEKvJ4KmQGFHUJ0H7fJf1yiMelgGrAQKYJFRPoCtAYEmWs
+a5ohai7QYXaQFDOOjtgkKjqRMqFiqlDM7EAR89mhUMQtV49YLkRUsAplDETMAxKn
+wFfMIoQzoYl1lcfhoowPYZJCCAaKJJlINRWD+1OYwfhZaNwkRaKmyzpCJtaoy1MQ
+9+GwVcGQO0FTIZREbsFm0VCAudMdy897c4SsfEFVEUE6MHUNKdhUKE+kMSpCqJoG
+kSUkE5lBSBRqMpWKVCKMW2aqChUFIahiYAorKtxpdtTS+8Xdg3pcQKlVVGSR4kiB
+zZwCZmfqoWLuLGyHIiE9VMQBBZFI2Mly+4mUhfsZjPoea/moFTT438IZUWY7VijI
+03Dkf6sToTJVYLGwZTOf5SIUFWHAH3cOi7pdapjoiB+QoVMECWGSLOvY0EyAddFQ
+VSAaCkYKTyRLUAKyiFRVVTClKmfJSP63S0XjPomfa/ICgyRSYjOh4thR76CEAckJ
+Tw0e6F6jhOShaU8uV+mhtITthTtfn9T0dPaHa84fysmLZcf0RwV5owPfeEZUpZ72
+NCXtqPV+9/TcgTffqGvcPXOxHXtHaE4OFl6Z1zN4weLE8mD7pNn79lT7lOW3xpsp
+926WktbszoruwrykkV8dXnXm7p0u2HD8rdSdaT2X1+wd82BKd2ZLPL1zx5nevFEl
+JecWTcbNt7t2VtaXja3PP39q4Y0i69PWgRM3bPyixrMV1z686d3rqfGOOfXC1ppt
+GypfwSkNr0Znrz216I9PhnXs7508cmPj8Fv6iaS+Z374+0ZPPaj+ZXjG9dlVF14q
+q5N6r85t/m1CNS1bVOB3qu//+Hypd1SPsXl3YPXmrvaWTmfO6Jej2X2NE2ct3dad
+MmHZQs/kQeOq9l/1nF39Wc6GEQffD6ZVPWu1nbi+xHN3+get/nUPZywoPRKIrFxe
+581puNcQuDQ34+DHKxKNeG5jvDA+67XDDx5keNovhTvMzkMvrtt+Z1Ne/bqvL/68
+6fLaoUlHfTmf/yS1frsrPX9XfFlq0tlzub1361p6rladXJ9cOXNWw5X4lu4DWTVR
+a0tHeu6+Wjgsdc7mlnn3r9XG4ulf5n9/5rmkwxm/5t/atQIPbso5mrnUHwt3vfeu
+36nsm/H7+iHrw+3Nw/3Lmy5cbpkfOrAHXOvbSoNr5/9Z2zZ6SNu0iovTF799Zcn4
+DJ/3/F9TjqTktk0rP377o2FvehMfrcykC/4B00gJFQ==
+=gGCT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trav1sty
+
+==================================================================
