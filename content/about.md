@@ -3,6 +3,7 @@ aliases = ["about-us", "about"]
 author = "william-thresher"
 date = 2020-05-02T23:00:00Z
 title = "About"
+socialShare = false
 
 +++
 I created this blog as a way to share the thoughts and experiences that myself or other runners may go through.
