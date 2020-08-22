@@ -35,6 +35,7 @@ uglyURLs = false
   delayDisqus = true
   showRelatedPosts = true
   hyvorComments = true
+  since = "2019"
 #  hideAuthor = true
   gcse = "52a473151cd3fa913" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
@@ -52,7 +53,7 @@ uglyURLs = false
 
 [Author]
   name = "William Thresher"
-  website = "williamthresher.com"
+  website = "/blog"
   #email = "youremail@domain.com"
   facebook = "williamthresher3"
   github = "Trav1sty"
