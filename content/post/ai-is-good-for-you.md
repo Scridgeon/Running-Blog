@@ -17,6 +17,6 @@ I took a few weeks off to let my legs recover and decide on what I was going to 
 
 I'm a few weeks into TAO and my only real complaint is the TAO Garmin watch app doesn't work well for me. The pace on the app doesn't match the pace on the standard Garmin workout screen. I've seen deviations of up to 1 min/mile. I've corresponded with someone at TAO and they told me that their app uses the measurements directly from the watch. My solution was to not use their app workout screen while running and stick with the standard Garmin workout screen. It's a mild inconvenience but something I'm fine with overlooking given how well the service has been working. I'm not going to pitch their service so here's a blurb from their [website](https://www.trainasone.com "TrainAsONE").
 
-![Train As One](/uploads/tao.png#center)
+![Train As One](/blog/uploads/tao.png#center)
 
 I'll post a follow-up to the program once I complete the [Baker Lake 50K]({{< ref "first-official-ultra.md" >}}). I'm on the fence if I'll be able to complete the race given some other setbacks but I'm optimistic about my training and the service.
