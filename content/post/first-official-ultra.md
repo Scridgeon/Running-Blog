@@ -8,6 +8,7 @@ share = true
 tags = []
 title = "First Official Ultra"
 image = "uploads/trail-run-min.png"
+credit = "Vermont Public Radio - vpr.org"
 
 +++
 I had a goal when I turned 30. It was to run 30 miles. At the time I had never run longer than a half marathon so this was an ambitious goal. My best friend was already into ultra running so I had plenty of encouragement. I successfully completed the run with his help and ticked off a few other 26-28 mile runs along the way. Distance running fell off of my radar within a year as life got busier.

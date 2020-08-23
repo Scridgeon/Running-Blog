@@ -8,6 +8,7 @@ share = true
 tags = []
 title = "The Journey Begins"
 image = "uploads/welcome-mat-min.png"
+credit = "Coco Mats 'N More - wayfair.com"
 
 +++
 I've been a runner most of my life. It started when I was a child running with my father. I ran summer track in my pre-teen years and later joined the high school track and cross-country teams. Sure I've taken breaks over the years due to injury or life, but running is that constant I keep coming back to.

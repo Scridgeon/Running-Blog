@@ -460,9 +460,15 @@ footer .theme-by {
   }
 }
 
+div.blog-img {
+  padding-bottom: 10px;
+}
 div.blog-img img {
   width: 100%;
-  margin: 15px 0 45px 0;
+  margin: 15px 0 5px 0;
+}
+div.blog-img p {
+  font-size: small;
 }
 
 /* --- Tags --- */

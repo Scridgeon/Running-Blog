@@ -8,6 +8,7 @@ share = true
 tags = ["Shoes"]
 title = "Running on Clouds"
 image = "uploads/asics_clouds.jpg"
+credit = "Asics South Africa - asics.com"
 
 +++
 I've loved shoes for as long as I can remember. I used to get the EuroSport catalog and drool over the latest soccer cleats or circle all of the shoes I wanted from the Runner's World shoe edition when I was a kid. I even went so far as to work in a shoe store, and for the record, no, I did not help people try shoes on. Shoes I like, feet, not so much.

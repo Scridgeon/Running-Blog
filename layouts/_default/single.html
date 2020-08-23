@@ -5,6 +5,10 @@
       <article role="main" class="blog-post">
         <div class="blog-img">
         <img {{ with .Params.image }} src="{{ . | absURL }}"{{ end }} alt="{{ .Title }}">
+        
+        {{ if .Params.image}}
+        <p> Photo Source: {{.Params.credit}}</p>
+        {{end}}
         </div>
         {{ .Content }}
 
