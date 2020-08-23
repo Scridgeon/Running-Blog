@@ -62,7 +62,9 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
-
+div.page-offset {
+  margin-top: 40px;
+}
 .main-content {
   padding-top: 80px;
 }
