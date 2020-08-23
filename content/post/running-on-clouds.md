@@ -1,16 +1,14 @@
----
-authors:
-- william-thresher
-comments: true
-date: 2020-08-23T01:30:00+00:00
-navigation: ''
-series: ''
-share: true
-tags:
-- Shoes
-title: Running on Clouds
++++
+authors = ["william-thresher"]
+comments = true
+date = 2020-08-23T01:30:00+00:00
+navigation = ""
+series = ""
+share = true
+tags = ["Shoes"]
+title = "Running on Clouds"
 
----
++++
 I've loved shoes for as long as I can remember. I used to get the EuroSport catalog and drool over the latest soccer cleats or circle all of the shoes I wanted from the Runner's World shoe edition when I was a kid. I even went so far as to work in a shoe store, and for the record, no, I did not help people try shoes on. Shoes I like, feet, not so much.
 
 I noticed while getting back into running how HOKA seemed to blow up. I hadn't heard about them but the idea of ultra-cushioning to reduce foot fatigue made sense. They can't be terrible if professional runners are using them, right? I decided to give them a shot and spent what felt like an eternity trying to find the right model. What I noticed about HOKAs from my research is the fit can change by a half a size depending on the model and version. For instance, a Clifton 5 could be a half size larger than a Clifton 4, but the Clifton 6 could go back down a half-size depending on the material used. This made trying to find my size incredibly difficult.
@@ -19,7 +17,7 @@ So in March 2020, I chose to go with the Clifton 5 because REI was having some g
 
 I sent the 6s back to Zappos and ordered larger sized 6s from REI. I like shopping with REI when I'm not sure something is going to work because their generous return policy gives me the ability to return stuff I'm unhappy with. I buy enough stuff from them that I don't feel like I've ever abused that policy. I finally settled on a pair of red, white, and blue Clifton 6s. It only took me 4 weeks from deciding I wanted the shoes to finally run in them. The ultra cushioning did not disappoint. Many reviews say they're like running on pillows and I agree.
 
-![](/blog/uploads/hoka_clifton_6.png#center)
+![HOKA Clifton 6](/blog/uploads/hoka_clifton_6.png#center)
 
 I had fit issues right out of the gate. The shoes have a rigid arch that dug into my foot and ended up bruising me. I had to tape cardboard to my arch to help soften the foam material. Eventually, that got sorted out but I've never had to go through that much trouble for a shoe, nor would I again. The second issue was the bottom left side on my left foot was getting sore after my runs. I think my natural gait mixed with the high stack height of the shoe lead to an uneven landing. I was able to log 100 miles in them before I gave up trying to make the shoes work. They did feel nice when they weren't abusing my foot. However, choosing HOKAs ended up being quite a frustrating experience, and now I am without HOKA.
 
