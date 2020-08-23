@@ -7,6 +7,7 @@ series = ""
 share = true
 tags = []
 title = "AI is good for you?"
+image = "uploads/ai-min.jpg"
 
 +++
 I've never really followed a training plan that wasn't my own, but I admit that training for an ultra is outside of my wheelhouse so I was going to need some help. I opted to use the half-marathon training program inside of the Garmin Connect app since I was running a half-marathon in June. The plan seemed reasonable. I liked the easy instruction that was provided and how it integrated into my Garmin watch. It had guided workouts and drills that were clearly laid out. I think Garmin did a great job with this training feature as a whole.

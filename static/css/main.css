@@ -455,8 +455,12 @@ footer .theme-by {
   }
 }
 
-/* --- Tags --- */
+div.blog-img img {
+  width: 100%;
+  margin-bottom: 45px;
+}
 
+/* --- Tags --- */
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
