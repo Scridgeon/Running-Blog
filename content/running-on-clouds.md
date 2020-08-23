@@ -1,10 +1,11 @@
 ---
-authors: []
-comments: false
+authors:
+- william-thresher
+comments: true
 date: 2020-08-23T01:30:00+00:00
 navigation: ''
 series: ''
-share: false
+share: true
 tags:
 - Shoes
 title: Running on Clouds
