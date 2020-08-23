@@ -3,13 +3,12 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
+      {{ if .Params.image}}
         <div class="blog-img">
-        <img {{ with .Params.image }} src="{{ . | absURL }}"{{ end }} alt="{{ .Title }}">
-        
-        {{ if .Params.image}}
-        <p> Photo Source: {{.Params.credit}}</p>
-        {{end}}
+          <img {{ with .Params.image }} src="{{ . | absURL }}"{{ end }} alt="{{ .Title }}">
+          <p> Photo Source: {{.Params.credit}}</p>
         </div>
+      {{end}}
         {{ .Content }}
 
         {{ if .Params.tags }}

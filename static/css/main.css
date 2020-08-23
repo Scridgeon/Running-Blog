@@ -412,7 +412,7 @@ footer .theme-by {
   text-align: center;
 }
 .post-heading h1 {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .post-preview .post-entry {
@@ -463,11 +463,11 @@ footer .theme-by {
 }
 
 div.blog-img {
-  padding-bottom: 10px;
+  padding-bottom: 25px;
 }
 div.blog-img img {
   width: 100%;
-  margin: 15px 0 5px 0;
+  margin: 10px 0 10px 0;
 }
 div.blog-img p {
   font-size: small;
