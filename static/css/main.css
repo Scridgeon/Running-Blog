@@ -53,7 +53,7 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
+  margin: 15px auto 0px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
@@ -122,6 +122,7 @@ img {
 
 .img-title {
   width: 100%;
+  padding-top: 10px;
 }
 
 .disqus-comments {
@@ -349,7 +350,7 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 55px 0;
+  padding: 50px 0 55px 0;
   border-bottom: 1px solid #eee;
 }
 
@@ -457,7 +458,7 @@ footer .theme-by {
 
 div.blog-img img {
   width: 100%;
-  margin-bottom: 45px;
+  margin: 15px 0 45px 0;
 }
 
 /* --- Tags --- */
@@ -515,7 +516,7 @@ div.blog-img img {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 80px 0 0 0;
   position: relative;
 }
 .intro-header.big-img {
