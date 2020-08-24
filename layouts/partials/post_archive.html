@@ -8,11 +8,12 @@
         {{ end }}
     </a>
     <div class="post-entry">
-        {{ if .Truncated }}
-        {{slicestr .Summary 0 300 | markdownify }}
+        {{ if .Params.summary }}
+        {{ .Params.summary}}
         <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
         {{ else }}
-        {{ .Content }}
+        {{slicestr .Summary 0 300 | markdownify }}
+        <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
         {{ end }}
     </div>
 
