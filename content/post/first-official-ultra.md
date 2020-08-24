@@ -2,7 +2,7 @@
 authors: william-thresher
 date: 2020-05-17T00:00:00.000+00:00
 tags:
-share: true
+socialShare: true
 comments: true
 title: First Official Ultra
 image: "/uploads/trail-run-min.png"

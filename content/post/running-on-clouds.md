@@ -3,7 +3,7 @@ authors: william-thresher
 date: 2020-08-23T01:30:00+00:00
 tags:
 - shoes
-share: true
+socialShare: false
 comments: true
 title: "Running on Clouds"
 image: "/uploads/asics_clouds.jpg"

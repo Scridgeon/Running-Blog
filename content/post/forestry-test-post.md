@@ -3,7 +3,7 @@ authors: william-thresher
 date: 2020-08-24T12:42:24.000+00:00
 tags:
 - test
-share: true
+socialShare: true
 comments: true
 title: Forestry Test Post
 image: "/uploads/test-min.jpg"
