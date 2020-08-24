@@ -51,6 +51,15 @@ uglyURLs = false
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+[outputs]
+home = [ "RSS", "HTML"]
+section  = ["HTML"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
 [Author]
   name = "William Thresher"
   website = "/blog"
