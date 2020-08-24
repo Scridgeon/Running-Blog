@@ -21,6 +21,15 @@ fields:
   label: Title
   config:
     required: true
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 - type: datetime
   name: date
   label: Date
