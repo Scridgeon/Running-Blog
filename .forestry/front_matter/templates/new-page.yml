@@ -39,5 +39,3 @@ fields:
   type: boolean
   label: Share
   default: false
-pages:
-- content/test.md
