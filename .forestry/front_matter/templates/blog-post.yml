@@ -21,7 +21,7 @@ fields:
   label: Title
   config:
     required: true
-- name: summary
+- name: excerpt
   type: textarea
   default: ''
   config:
@@ -29,7 +29,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Summary
+  label: Post Excerpt
 - type: datetime
   name: date
   label: Date
