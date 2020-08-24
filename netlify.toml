@@ -7,15 +7,15 @@
 
 [[redirects]]
   from = "https://blog.williamthresher.com/blog/post"
-  to = "https://williamthresher.com/blog/:splat"
+  to = "https://williamthresher.com/blog/post"
   status = 200
   
   [[redirects]]
   from = "https://blog.williamthresher.com/blog/about"
-  to = "https://williamthresher.com/blog/:splat"
+  to = "https://williamthresher.com/blog/about"
   status = 200
   
   [[redirects]]
   from = "https://blog.williamthresher.com/blog/tags"
-  to = "https://williamthresher.com/blog/:splat"
+  to = "https://williamthresher.com/blog/tags"
   status = 200
