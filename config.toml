@@ -62,7 +62,7 @@ baseName = "feed"
 
 [Author]
   name = "William Thresher"
-  website = "/blog"
+  website = "https://williamthresher.com"
   #email = "youremail@domain.com"
   facebook = "williamthresher3"
   github = "Trav1sty"
