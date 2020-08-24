@@ -1,16 +1,18 @@
-+++
-authors = ["william-thresher"]
-comments = true
-date = 2020-08-23T01:30:00+00:00
-navigation = ""
-series = ""
-share = true
-tags = ["Shoes"]
-title = "Running on Clouds"
-image = "uploads/asics_clouds.jpg"
-credit = "Asics South Africa - asics.com"
+---
+authors: william-thresher
+date: 2020-08-23T01:30:00+00:00
+tags:
+- shoes
+share: true
+comments: true
+title: "Running on Clouds"
+image: "/uploads/asics_clouds.jpg"
+credit: "Asics South Africa - asics.com"
+navigation: ''
+series: ''
+summary: I attempted to run in HOKAs and it wasn't what I expected.
 
-+++
+---
 I've loved shoes for as long as I can remember. I used to get the EuroSport catalog and drool over the latest soccer cleats or circle all of the shoes I wanted from the Runner's World shoe edition when I was a kid. I even went so far as to work in a shoe store, and for the record, no, I did not help people try shoes on. Shoes I like, feet, not so much.
 
 I noticed while getting back into running how HOKA seemed to blow up. I hadn't heard about them but the idea of ultra-cushioning to reduce foot fatigue made sense. They can't be terrible if professional runners are using them, right? I decided to give them a shot and spent what felt like an eternity trying to find the right model. What I noticed about HOKAs from my research is the fit can change by a half a size depending on the model and version. For instance, a Clifton 5 could be a half size larger than a Clifton 4, but the Clifton 6 could go back down a half-size depending on the material used. This made trying to find my size incredibly difficult.

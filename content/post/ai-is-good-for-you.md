@@ -1,16 +1,17 @@
-+++
-authors = ["william-thresher"]
-comments = true
-date = 2020-05-27T13:30:00Z
-navigation = ""
-series = ""
-share = true
-tags = []
-title = "AI is good for you?"
-image = "uploads/ai-min.jpg"
-credit = "Hivery - hivery.com"
+---
+authors: william-thresher
+date: 2020-05-27T13:30:00.000+00:00
+tags:
+share: true
+comments: true
+title: AI is good for you?
+image: "/uploads/ai-min.jpg"
+credit: Hivery - hivery.com
+navigation: ''
+series: ''
+summary: TrainAsONE thinks AI powered training is the future, but is it?
 
-+++
+---
 I've never really followed a training plan that wasn't my own, but I admit that training for an ultra is outside of my wheelhouse so I was going to need some help. I opted to use the half-marathon training program inside of the Garmin Connect app since I was running a half-marathon in June. The plan seemed reasonable. I liked the easy instruction that was provided and how it integrated into my Garmin watch. It had guided workouts and drills that were clearly laid out. I think Garmin did a great job with this training feature as a whole.
 
 However, I ultimately found the program lacked diversity in the types of runs it offered. It was inflexible in adjusting runs and had little regard for my physical limitations. I was close to injury after 6 weeks from overtraining. I'm not entirely blaming the app for this. I  could have run slower than the recommended pace or not run on days where my body didn't feel prepared. I kinda knew I was improperly training but kept pressing on because I was able to do the work.

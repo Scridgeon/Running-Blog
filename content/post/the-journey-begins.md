@@ -1,16 +1,17 @@
-+++
-authors = ["william-thresher"]
-comments = true
-date = 2020-05-02T00:00:00Z
-navigation = ""
-series = ""
-share = true
-tags = []
-title = "The Journey Begins"
-image = "uploads/welcome-mat-min.png"
-credit = "Coco Mats 'N More - wayfair.com"
+---
+authors: william-thresher
+date: 2020-05-02T00:00:00.000+00:00
+tags:
+share: true
+comments: true
+title: The Journey Begins
+image: "/uploads/welcome-mat-min.png"
+credit: Coco Mats 'N More - wayfair.com
+navigation: ''
+series: ''
+summary: This is my obligatory Hello World post as a geek but also why I'm here.
 
-+++
+---
 I've been a runner most of my life. It started when I was a child running with my father. I ran summer track in my pre-teen years and later joined the high school track and cross-country teams. Sure I've taken breaks over the years due to injury or life, but running is that constant I keep coming back to.
 
 One of my favorite things about running is the time I get to spend in my head. Don't get me wrong, I enjoy the company of others and the social aspect that comes with group runs, the satisfaction that comes from completing a long or difficult run, and the runner's high. However, It's the time spent alone that is most therapeutic.
