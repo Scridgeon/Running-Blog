@@ -2,27 +2,56 @@
 label: New Blog Post
 hide_body: false
 fields:
-- type: list
-  name: authors
-  label: authors
-- type: boolean
-  name: comments
-  label: comments
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: navigation
-  label: navigation
-- type: text
-  name: series
-  label: series
-- type: boolean
-  name: share
-  label: share
-- type: list
-  name: tags
-  label: tags
+- name: authors
+  type: select
+  default: william-thresher
+  config:
+    required: true
+    options:
+    - william-thresher
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+  default: now
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: credit
+  type: text
+  config:
+    required: false
+  label: Image Credit
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- type: boolean
+  name: share
+  label: Share
+  default: true
+- type: boolean
+  name: comments
+  label: Comments
+  default: true
+- type: text
+  name: navigation
+  label: Navigation
+- type: text
+  name: series
+  label: Series
