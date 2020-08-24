@@ -97,7 +97,7 @@ baseName = "feed"
 
 [[menu.main]]
     name = "About"
-    url = "about"
+    url = "https://williamthresher.com/blog/about"
     weight = 2
 
 #[[menu.main]]
@@ -125,5 +125,5 @@ baseName = "feed"
 
 [[menu.main]]
     name = "Tags"
-    url = "tags"
+    url = "https://williamthresher.com/blog/tags"
     weight = 3
