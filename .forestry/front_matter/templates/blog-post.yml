@@ -51,7 +51,7 @@ fields:
   default: []
   label: Tags
 - type: boolean
-  name: share
+  name: socialShare
   label: Share
   default: true
 - type: boolean
