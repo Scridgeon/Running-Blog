@@ -1,4 +1,41 @@
 ---
 label: New Page
 hide_body: false
-fields: []
+fields:
+- name: author
+  type: select
+  default: william-thresher
+  config:
+    required: true
+    options:
+    - william-thresher
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: true
+  label: Page Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: aliases
+  type: tag_list
+  default: []
+  label: Aliases
+- name: socialShare
+  type: boolean
+  label: Share
+  default: false
