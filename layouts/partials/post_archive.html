@@ -8,8 +8,8 @@
         {{ end }}
     </a>
     <div class="post-entry">
-        {{ if .Params.summary }}
-        {{ .Params.summary}}
+        {{ if .Params.excerpt }}
+        {{ .Params.excerpt}}
         <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
         {{ else }}
         {{slicestr .Summary 0 300 | markdownify }}
