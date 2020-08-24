@@ -6,16 +6,16 @@
   status = 404
 
 [[redirects]]
-  from = "/blog/post"
+  from = "https://blog.williamthresher.com/blog/post"
   to = "https://williamthresher.com/blog/:splat"
   status = 200
   
   [[redirects]]
-  from = "/blog/about"
+  from = "https://blog.williamthresher.com/blog/about"
   to = "https://williamthresher.com/blog/:splat"
   status = 200
   
   [[redirects]]
-  from = "/blog/tags"
+  from = "https://blog.williamthresher.com/blog/tags"
   to = "https://williamthresher.com/blog/:splat"
   status = 200
