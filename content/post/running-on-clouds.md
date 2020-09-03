@@ -5,9 +5,9 @@ tags:
 - shoes
 socialShare: false
 comments: true
-title: "Running on Clouds"
+title: Running on Clouds
 image: "/uploads/asics_clouds.jpg"
-credit: "Asics South Africa - asics.com"
+credit: Asics South Africa - asics.com
 navigation: ''
 series: ''
 excerpt: I attempted to run in HOKAs and it wasn't what I expected.
