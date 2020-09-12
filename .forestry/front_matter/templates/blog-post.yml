@@ -64,3 +64,10 @@ fields:
 - type: text
   name: series
   label: Series
+- name: showTitle
+  type: text
+  config:
+    required: true
+  label: Show Title
+  hidden: true
+  default: 'true'
