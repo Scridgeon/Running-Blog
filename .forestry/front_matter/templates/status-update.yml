@@ -53,3 +53,5 @@ fields:
   type: boolean
   label: Comments
   hidden: true
+pages:
+- content/status/update-1.md
