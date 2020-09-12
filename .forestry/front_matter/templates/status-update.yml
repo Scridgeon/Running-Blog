@@ -29,7 +29,7 @@ fields:
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: Title
 - name: image
   type: file
