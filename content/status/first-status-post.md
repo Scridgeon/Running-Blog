@@ -11,4 +11,4 @@ navigation: ''
 series: ''
 
 ---
-I'm happy to announce a new `status` post type!
+I've implemented a new status update for short blurbs that don't require a full post.
