@@ -9,4 +9,4 @@ socialShare: false
 comments: false
 
 ---
-Test update from Forestry.io.
+Testing a new post template type from Forestry.io.
