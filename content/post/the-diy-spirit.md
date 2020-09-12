@@ -15,6 +15,7 @@ image: "/uploads/diy-min.jpg"
 credit: Shutterstock - shutterstock.com
 navigation: ''
 series: ''
+showTitle: true
 
 ---
 Finding the right piece of gear can be tricky. There are lots of things that go into making something work in a way you'd expect, and what you want may not be what the manufacturer or another runner might want. This pretty much sums up my experience trying to find a hydration vest.

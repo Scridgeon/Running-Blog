@@ -9,6 +9,7 @@ image: "/uploads/ai-min.jpg"
 credit: Hivery - hivery.com
 navigation: ''
 series: ''
+showTitle: true
 excerpt: TrainAsONE thinks AI powered training is the future, but is it?
 
 ---

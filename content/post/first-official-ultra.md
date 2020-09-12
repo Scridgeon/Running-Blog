@@ -9,6 +9,7 @@ image: "/uploads/trail-run-min.png"
 credit: Vermont Public Radio - vpr.org
 navigation: ''
 series: ''
+showTitle: true
 excerpt: I've gone and done it now. I signed up for my first ultramarathon.
 
 ---

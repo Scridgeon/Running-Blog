@@ -10,6 +10,7 @@ image: "/uploads/asics_clouds.jpg"
 credit: Asics South Africa - asics.com
 navigation: ''
 series: ''
+showTitle: true
 excerpt: I attempted to run in HOKAs and it wasn't what I expected.
 
 ---

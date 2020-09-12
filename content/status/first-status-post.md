@@ -5,10 +5,11 @@ tags:
 - update
 socialShare: false
 comments: false
+title: Update
 excerpt: First post using the new status feature.
 image: "/uploads/status-update-min.png"
 navigation: ''
 series: ''
-
+showTitle: true
 ---
 I've implemented a new status update for short blurbs that don't require a full post.

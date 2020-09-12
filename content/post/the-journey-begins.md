@@ -9,6 +9,7 @@ image: "/uploads/welcome-mat-min.png"
 credit: Coco Mats 'N More - wayfair.com
 navigation: ''
 series: ''
+showTitle: true
 excerpt: This is my obligatory Hello World post as a geek but also why I'm here.
 
 ---
