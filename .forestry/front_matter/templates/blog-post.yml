@@ -64,6 +64,3 @@ fields:
 - type: text
   name: series
   label: Series
-pages:
-- content/post/forestry-test-post.md
-- content/post/the-diy-spirit.md
