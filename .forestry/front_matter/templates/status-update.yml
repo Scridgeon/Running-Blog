@@ -52,3 +52,5 @@ fields:
   type: boolean
   label: Comments
   hidden: true
+pages:
+- content/status/Test Status post.md
