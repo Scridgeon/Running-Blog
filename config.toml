@@ -15,13 +15,14 @@ pygmentsCodefencesGuessSyntax = true
 uglyURLs = false
 
 [permalinks]
-  post = "/:year/:slug/"
+  post = "/post/:year/:slug/"
   page = "/:slug/"
+  status = "/status/:year/:slug/"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["post","posts"]
+  mainSections = ["post","status"]
   logo = "img/bear_avatar.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"

@@ -7,13 +7,21 @@
         </h3>
         {{ end }}
     </a>
+    
     <div class="post-entry">
         {{ if .Params.excerpt }}
         {{ .Params.excerpt}}
-        <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+
+            <div>
+            <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+            </div>
+        
         {{ else }}
         {{slicestr .Summary 0 300 | markdownify }}
-        <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+        
+           <div>
+            <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+            </div>
         {{ end }}
     </div>
 
