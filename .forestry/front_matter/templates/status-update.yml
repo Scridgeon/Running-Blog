@@ -1,4 +1,54 @@
 ---
 label: Status Update
 hide_body: false
-fields: []
+fields:
+- name: authors
+  type: select
+  default: william-thresher
+  config:
+    required: true
+    options:
+    - william-thresher
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
+  hidden: true
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  default: "/blog/uploads/status-update-min.png"
+  hidden: true
+- name: tags
+  type: tag_list
+  default:
+  - update
+  label: Tags
+- name: socialShare
+  type: boolean
+  label: Share
+  hidden: true
+  default: false
+- name: comments
+  type: boolean
+  label: Comments
+  hidden: true
