@@ -462,6 +462,10 @@ footer .theme-by {
   }
 }
 
+.blog-post hr {
+    margin: 35px 0
+}
+
 div.blog-img {
   padding-bottom: 25px;
 }
@@ -478,7 +482,7 @@ div.blog-img p {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
-  margin-bottom: 30px;
+  margin: 30px 0;
 }
 
 .blog-tags:before {
@@ -525,6 +529,13 @@ div.blog-img p {
     float: left;
   }
 }
+
+span.post-meta {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+}
+
 /* --- Post and page headers --- */
 
 .intro-header {

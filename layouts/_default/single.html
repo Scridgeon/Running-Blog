@@ -22,6 +22,8 @@
             {{ end }}
           </div>
         {{ end }}
+        
+        {{ partial "post_meta" . }}
 
         {{ if $.Param "socialShare" }}
             <hr/>
