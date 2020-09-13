@@ -19,21 +19,20 @@
     {{- with site.LanguageCode }}<language>{{.}}</language>{{end -}}
     {{- with site.Copyright }}<copyright>{{ replace (replace . "{year}" now.Year) "&copy;" "©" | plainify }}</copyright>{{end -}}
     {{- if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end -}}
-    {{- if .Params.image }}
-    <image>
-      <url>{{ "img/bear_avatar.png" | absURL }}</url>
-      <title>williamthresher.com/blog/</title>
-      <link>{{ .Permalink }}</link>
-    </image>
-    {{end -}}
-    {{ range $pages }}
+    {{ range first 10 (where .Site.RegularPages "Type" "in" (slice "post" "status")) }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <guid>{{ .Permalink }}</guid>
-      <enclosure url="{{ .Params.image | absURL }}" type="image/png"></enclosure>
-      <description>{{ .Summary | html }}</description>
+      <description>
+        {{ if and (isset .Params "image") (not (eq .Params.image "")) }}
+        {{ printf "<img src=\"%s\" width=\"60\" height=\"30\" />" (.Params.image) }}
+        {{end}}
+        <br/><br/>
+		{{ .Summary | html }}
+		<br/><a href='{{ .Permalink }}'>[Read More]</a>
+		</description>
     </item>
     {{ end }}
   </channel>
