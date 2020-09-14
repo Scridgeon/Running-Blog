@@ -5,7 +5,7 @@ tags:
 socialShare: true
 comments: true
 title: The Journey Begins
-image: "/uploads/welcome-mat-min.png"
+image: "uploads/welcome-mat-min.png"
 credit: Coco Mats 'N More - wayfair.com
 navigation: ''
 series: ''
