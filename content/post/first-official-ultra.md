@@ -23,5 +23,5 @@ The Baker Lake Trail Run occurs in a beautifully serene, fall setting. The 50K o
 
 The 14 miles long, single-track trail meanders along the lake with short trips into the deep, old-growth forest. The trail is rolling, with countless rises and descents, and turns along the hillside. Mossy, slippery footbridges are strategically placed to wake the runner from any lapse in concentration. Fresh, fallen, multicolored maple leaves cover the landscape. Tricky steps across log bridges, and views from bridges over cascading streams, can invite pictures and side trips along the lake.  
 &nbsp;
-![Baker Lake Trail Map](/blog/uploads/baker-lake-map-min.png#center)  
+![Baker Lake Trail Map](/uploads/baker-lake-map-min.png#center)  
 That description about running through the forest is spot on. I've had the pleasure to walk the last few miles of the trail near the turn-around and can attest to its beauty. I'm immensely looking forward to the mutual suffering with my fellow runners. Hopefully, I'll be race-ready come October and able to enjoy the scenery. Now on to training!
