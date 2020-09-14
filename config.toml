@@ -1,4 +1,4 @@
-baseurl = "https://williamthresher.com/blog"
+baseurl = "https://williamthresher.com/"
 DefaultContentLanguage = "en"
 title = "Run. Fast. Blog."
 theme = "beautifulhugo"
