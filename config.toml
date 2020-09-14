@@ -53,13 +53,19 @@ uglyURLs = false
 #  desc = "Hexagon"
 
 [outputs]
-home = [ "RSS", "HTML"]
+home = [ "RSS","HTML","Algolia"]
 section  = ["HTML"]
 
 [outputFormats]
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "feed"
+
+[outputFormats.Algolia]
+  mediaType = "application/json"
+  baseName = "algolia"
+  isPlainText = true
+  notAlternative = true
 
 [Author]
   name = "William Thresher"
