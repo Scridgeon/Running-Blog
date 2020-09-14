@@ -1,4 +1,33 @@
+# netlify.toml
 [[plugins]]
   package = "netlify-plugin-algolia-export"
     [plugins.inputs]
       exclude = ['/categories', '/404.html']
+
+[[redirects]]
+  from = "/requests/*"
+  to = "http://media.williamthresher.com/requests/:splat"
+  status = 200
+  force = true  #COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/get/*"
+  to = "http://media.williamthresher.com/get/:splat"
+  status = 200
+  force = true  #COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/sonarr/*"
+  to = "media.williamthresher.com/sonarr/:splat"
+  status = 200
+  force = true  #COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/radarr/*"
+  to = "http://media.williamthresher.com/radarr/:splat"
+  status = 200
+  force = true  #COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
