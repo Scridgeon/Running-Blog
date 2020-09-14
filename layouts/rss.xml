@@ -16,6 +16,11 @@
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}{{ with .Site.Params.updatePeriod }}
     <sy:updatePeriod>{{.}}</sy:updatePeriod>{{end}}{{ with .Site.Params.updateFrequency }}
     <sy:updateFrequency>{{.}}</sy:updateFrequency>{{end}}
+    <image>
+      <url>{{ "img/bear_avatar.png" | absURL }}</url>
+      <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
