@@ -67,6 +67,10 @@ baseName = "feed"
   isPlainText = true
   notAlternative = true
 
+[params.algolia]
+  vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+  params = ["tags"]
+
 [Author]
   name = "William Thresher"
   website = "https://williamthresher.com"
