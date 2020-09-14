@@ -1,2 +1,4 @@
 [[plugins]]
   package = "netlify-plugin-algolia-export"
+    [plugins.inputs]
+      exclude = ['/post', '/404.html']
