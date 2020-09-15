@@ -102,7 +102,7 @@ baseName = "feed"
 #  slack = "username"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = "post"
     weight = 1
 
