@@ -20,7 +20,7 @@ showTitle: true
 ---
 Finding the right piece of gear can be tricky. There are lots of things that go into making something work in a way you'd expect, and what you want may not be what the manufacturer or another runner might want. This pretty much sums up my experience trying to find a hydration vest.
 
-I've run with hydration packs, belts, and handheld bottles in the past. They were each a good tool but I wasn't pleased with them over multi-hour runs. I wanted something that got out of my way and let me focus on my ~~suffering~~ running. I looked at a few of the big names like Salomon, Nathan, Ultimate Direction, and Camelbak and quickly realized I was lost with so many choices. I couldn't try on any of these vests either due to COVID, and I wasn't about to start ordering various models after [the fiasco with the HOKAs](https://williamthresher.com/2020/running-on-clouds/ "Running on Clouds").
+I've run with hydration packs, belts, and handheld bottles in the past. They were each a good tool but I wasn't pleased with them over multi-hour runs. I wanted something that got out of my way and let me focus on my ~~suffering~~ running. I looked at a few of the big names like Salomon, Nathan, Ultimate Direction, and Camelbak and quickly realized I was lost with so many choices. I couldn't try on any of these vests either due to COVID, and I wasn't about to start ordering various models after [the fiasco with the HOKAs](https://williamthresher.com/post/2020/running-on-clouds/ "Running on Clouds").
 
 > I wanted something that got out of my way and let me focus on my ~~suffering~~ running.
 
