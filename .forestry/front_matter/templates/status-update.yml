@@ -39,6 +39,9 @@ fields:
   label: Image
   default: "/uploads/status-update-min.png"
   hidden: true
+- name: featured
+  type: boolean
+  label: Featured Post
 - name: tags
   type: tag_list
   default:
