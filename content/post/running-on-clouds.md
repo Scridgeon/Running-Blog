@@ -8,6 +8,7 @@ comments: true
 title: Running on Clouds
 image: "/uploads/asics_clouds.jpg"
 credit: Asics South Africa - asics.com
+featured: false
 navigation: ''
 series: ''
 showTitle: true

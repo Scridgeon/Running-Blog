@@ -13,6 +13,7 @@ excerpt: Finding the right piece of gear can be tricky. There are lots of things
   experience trying to find a hydration vest.
 image: "/uploads/diy-min.jpg"
 credit: Shutterstock - shutterstock.com
+featured: false
 navigation: ''
 series: ''
 showTitle: true

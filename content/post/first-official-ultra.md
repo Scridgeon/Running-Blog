@@ -7,6 +7,7 @@ comments: true
 title: First Official Ultra
 image: "/uploads/trail-run-min.png"
 credit: Vermont Public Radio - vpr.org
+featured: false
 navigation: ''
 series: ''
 showTitle: true

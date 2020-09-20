@@ -8,6 +8,7 @@ comments: true
 title: Forestry Test Post
 image: "/uploads/test-min.jpg"
 credit: Google Image Search
+featured: false
 navigation: ''
 series: ''
 excerpt: Quick summary to test blog post archive feature.

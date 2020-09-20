@@ -7,6 +7,7 @@ comments: true
 title: AI is good for you?
 image: "/uploads/ai-min.jpg"
 credit: Hivery - hivery.com
+featured: false
 navigation: ''
 series: ''
 showTitle: true
