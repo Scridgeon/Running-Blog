@@ -74,3 +74,5 @@ fields:
   label: Show Title
   hidden: true
   default: 'true'
+pages:
+- content/post/the-year-that-can-disappear.md
