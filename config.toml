@@ -27,6 +27,7 @@ uglyURLs = false
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
+  paginate = 5
   rss = true
   comments = true
   readingTime = false
@@ -39,6 +40,12 @@ uglyURLs = false
   since = "2019"
 #  hideAuthor = true
   gcse = "52a473151cd3fa913" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+# Content configuration
+# set to true to pin a post at the top of the index
+  pinnedPost = true
+# Set to true to pin only to the first page, false to all pages
+  pinOnlyToFirstPage = true
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
