@@ -9,10 +9,23 @@
         {{ end }}
 
         <div class="posts-list">
-          {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-          {{ range $pag.Pages }}
-            {{ partial "post_preview" . }}
-          {{ end }}
+          {{ $allNonExcluded := where site.RegularPages "Type" "in" site.Params.mainSections }}
+          {{ $pag := .Paginate $allNonExcluded (index .Site.Params "paginate" | default 5) }}
+
+          {{ if .Site.Params.pinnedPost }}
+          {{ if (and .Site.Params.pinOnlyToFirstPage (ne $pag.PageNumber 1)) }}
+              {{/* Do nothing if the pinOnlyToFirstPage flag is set and we're not on page 1. */}}
+          {{else}}
+          {{ range first 1 (where (where .Site.RegularPages "Type" "in" site.Params.mainSections) ".Params.featured" "=" true) }}
+                  {{ partial "post_preview" . }}
+              {{end}}
+          {{end}}
+      {{end}}
+  
+      {{ range $pag.Pages }}
+          {{ partial "post_preview" . }}
+      {{ end }}
+
         </div>
 
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
