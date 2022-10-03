@@ -10,4 +10,4 @@ comments: false
 featured: false
 
 ---
-I implemented a new status update for short blurbs that don't require a full post.
+It's official-ish. I'm going to run the Baker Lake 25K in 2023!
