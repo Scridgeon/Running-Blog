@@ -1,4 +1,4 @@
-baseurl = "https://williamthresher.com/"
+baseurl = "https://william-thresher.netlify.app/"
 DefaultContentLanguage = "en"
 title = "Run. Fast. Blog."
 theme = "beautifulhugo"
