@@ -57,5 +57,4 @@ fields:
   label: Comments
   hidden: true
 pages:
-- content/status/update-1.md
 - content/status/update-2.md
