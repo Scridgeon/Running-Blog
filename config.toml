@@ -68,12 +68,6 @@ section  = ["HTML"]
 mediatype = "application/rss"
 baseName = "feed"
 
-[outputFormats.Algolia]
-  mediaType = "application/json"
-  baseName = "algolia"
-  isPlainText = true
-  notAlternative = true
-
 [params.algolia]
   vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
   params = ["tags"]
@@ -83,19 +77,19 @@ baseName = "feed"
   website = "https://williamthresher.com"
   #email = "youremail@domain.com"
   facebook = "williamthresher3"
-  github = "Trav1sty"
+  github = "Scridgeon"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"
-#  reddit = "username"
+  reddit = "Scridgeon"
   linkedin = "williamthresher"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "username"
-  instagram = "williamthresher3"
+#  instagram = "williamthresher3"
 #  youtube = "user/username" # or channel/channelname
 #  soundcloud = "username"
-  spotify = "Trav1sty"
+#  spotify = "Trav1sty"
 #  bandcamp = "username"
 #  itchio = "username"
 #  vk = "username"
@@ -103,7 +97,7 @@ baseName = "feed"
 #  telegram = "username"
 #  500px = "username"
 #  codepen = "username"
-  mastodon = "fosstodon.org/@Trav1sty"
+#  mastodon = "fosstodon.org/@Trav1sty"
 #  kaggle = "username"
 #  weibo = "username"
 #  slack = "username"
