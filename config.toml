@@ -22,7 +22,7 @@ uglyURLs = false
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
 #  subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["post","status"]
+  mainSections = ["post","status","update"]
   logo = "img/bear_avatar.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -67,10 +67,6 @@ section  = ["HTML"]
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "feed"
-
-[params.algolia]
-  vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-  params = ["tags"]
 
 [Author]
   name = "William Thresher"
