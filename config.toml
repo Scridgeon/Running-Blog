@@ -60,7 +60,7 @@ uglyURLs = false
 #  desc = "Hexagon"
 
 [outputs]
-home = [ "RSS","HTML","Algolia"]
+home = [ "RSS","HTML"]
 section  = ["HTML"]
 
 [outputFormats]
